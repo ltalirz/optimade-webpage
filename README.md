@@ -1,1 +1,1 @@
-# This folder includes the files for the website on [Github Pages](https://pages.github.com)
+This folder includes the files for the website on [Github Pages](https://pages.github.com)
