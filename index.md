@@ -1,3 +1,5 @@
+<link rel="stylesheet" type="text/css" href="/css/main.css">
+
 Designing new materials suitable for specific applications is a long, complex, and costly process.
 Researchers think of new ideas based on intuition and experience.
 Their synthesis and evaluation require a tremendous amount of trial and error.
