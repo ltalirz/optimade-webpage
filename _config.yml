@@ -1,3 +1,12 @@
 baseurl: ""
 url: "https://materials-consortia.github.io"
 theme: jekyll-theme-architect
+
+menus:
+    main:
+    - Home: /
+    - Archives: /archives/
+    - About: /about/
+    side:
+    - Categories: /categories/
+    - Tags: /tags/
