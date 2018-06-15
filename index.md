@@ -1,8 +1,3 @@
----
-layout: default
-title: About us
----
-
 Designing new materials suitable for specific applications is a long, complex, and costly process.
 Researchers think of new ideas based on intuition and experience.
 Their synthesis and evaluation require a tremendous amount of trial and error.
@@ -14,9 +9,9 @@ This is the burgeoning area of high-throughput ab initio computation.
 Such calculations have been used to create large databases containing the calculated
 properties of existing and hypothetical materials, many of which have appeared online:
 
+- [the AFLOW distributed materials property repository](http://aflowlib.org/)
+- [the Materials Cloud](http://materialscloud.org/)
 <ul>
-	<li><a href="http://aflowlib.org/">the AFLOW distributed materials property repository</a></li>
-	<li><a href="http://aiida.net/">AiiDA</a></li>
 	<li><a href="http://molecularspace.org/">the Harvard Clean Energy Project Database</a></li>
 	<li><a href="http://materialsproject.org/">the Materials Project</a></li>
 	<li><a href="http://nomad-repository.eu/">the NoMaD (Novel Materials Discovery) Repository</a></li>
