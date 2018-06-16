@@ -1,9 +1,11 @@
 # OPTiMaDe
-Open Databases Integration for Materials Design
+The **Open Databases Integration for Materials Design** (OPTiMaDe) consortium
+aims to make materials datbases interoperational by developing a common REST API.
 
 - [About us](/)
-- [API Specification](https://github.com/Materials-Consortia/OPTiMaDe/blob/master/optimade.md)
-- [Wiki](https://github.com/Materials-Consortia/OPTiMaDe/wiki)
+- [The API Specification](https://github.com/Materials-Consortia/OPTiMaDe/blob/master/optimade.md)
+- [List of contributors](https://github.com/Materials-Consortia/OPTiMaDe/blob/master/AUTHORS)
+- [OPTiMaDe Wiki](https://github.com/Materials-Consortia/OPTiMaDe/wiki)
 
 ## About us
 
@@ -29,9 +31,3 @@ existing and hypothetical materials, many of which have appeared online:
 - [the Data Catalyst Genome](http://suncat.stanford.edu/)
 - ...
 
-The aim of OPTiMaDe is to work in the direction of making these
-databases interoperational by developing a common REST API. 
-
-The [latest release](https://github.com/Materials-Consortia/OPTiMaDe/blob/master/optimade.md)
-and the [list of contributors](https://github.com/Materials-Consortia/OPTiMaDe/blob/master/AUTHORS)
-are hosted under the [Materials-Consortia GitHub organization](https://github.com/Materials-Consortia).
