@@ -1,1 +1,3 @@
-This folder includes the files for the website on [Github Pages](https://pages.github.com)
+# OPTiMaDe Web Site
+
+This folder contains the source code for the [OPTiMaDe website](www.optimade.org).
