@@ -1,4 +1,4 @@
-baseurl: "/materials-consortia"
+baseurl: "/materials-consortia.github.io"
 url: "https://ltalirz.github.io/"
 theme: jekyll-theme-slate
 markdown: kramdown
